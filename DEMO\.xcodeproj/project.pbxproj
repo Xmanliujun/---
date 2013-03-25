@@ -7,13 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		04CA6D8F16FFD94900B6DD25 /* 01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CA6D8916FFD94900B6DD25 /* 01.jpg */; };
-		04CA6D9016FFD94900B6DD25 /* 02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CA6D8A16FFD94900B6DD25 /* 02.jpg */; };
-		04CA6D9116FFD94900B6DD25 /* 03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CA6D8B16FFD94900B6DD25 /* 03.jpg */; };
-		04CA6D9216FFD94900B6DD25 /* 04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CA6D8C16FFD94900B6DD25 /* 04.jpg */; };
-		04CA6D9316FFD94900B6DD25 /* 05.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CA6D8D16FFD94900B6DD25 /* 05.jpg */; };
-		04CA6D9416FFD94900B6DD25 /* 06.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CA6D8E16FFD94900B6DD25 /* 06.jpg */; };
-		04CA6D9716FFDBE600B6DD25 /* 00.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04CA6D9616FFDBE600B6DD25 /* 00.jpg */; };
 		632670C816F42E7D00675454 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 632670C716F42E7D00675454 /* UIKit.framework */; };
 		632670CA16F42E7D00675454 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 632670C916F42E7D00675454 /* Foundation.framework */; };
 		632670CC16F42E7D00675454 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 632670CB16F42E7D00675454 /* CoreGraphics.framework */; };
@@ -23,18 +16,9 @@
 		632670DA16F42E7D00675454 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 632670D916F42E7D00675454 /* Default.png */; };
 		632670DC16F42E7D00675454 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 632670DB16F42E7D00675454 /* Default@2x.png */; };
 		632670DE16F42E7D00675454 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 632670DD16F42E7D00675454 /* Default-568h@2x.png */; };
-		632670E616F42E9800675454 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 632670E516F42E9800675454 /* RootViewController.m */; };
-		63E43F6916FD878F008B17F3 /* Helper.m in Sources */ = {isa = PBXBuildFile; fileRef = 63E43F6816FD878F008B17F3 /* Helper.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		04CA6D8916FFD94900B6DD25 /* 01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 01.jpg; sourceTree = "<group>"; };
-		04CA6D8A16FFD94900B6DD25 /* 02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 02.jpg; sourceTree = "<group>"; };
-		04CA6D8B16FFD94900B6DD25 /* 03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 03.jpg; sourceTree = "<group>"; };
-		04CA6D8C16FFD94900B6DD25 /* 04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 04.jpg; sourceTree = "<group>"; };
-		04CA6D8D16FFD94900B6DD25 /* 05.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 05.jpg; sourceTree = "<group>"; };
-		04CA6D8E16FFD94900B6DD25 /* 06.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 06.jpg; sourceTree = "<group>"; };
-		04CA6D9616FFDBE600B6DD25 /* 00.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 00.jpg; sourceTree = "<group>"; };
 		632670C416F42E7D00675454 /* DEMO\.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "DEMO\\.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		632670C716F42E7D00675454 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		632670C916F42E7D00675454 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -48,10 +32,6 @@
 		632670D916F42E7D00675454 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		632670DB16F42E7D00675454 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		632670DD16F42E7D00675454 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
-		632670E416F42E9800675454 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
-		632670E516F42E9800675454 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
-		63E43F6716FD878F008B17F3 /* Helper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Helper.h; sourceTree = "<group>"; };
-		63E43F6816FD878F008B17F3 /* Helper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Helper.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,19 +78,8 @@
 		632670CD16F42E7D00675454 /* DEMO\ */ = {
 			isa = PBXGroup;
 			children = (
-				04CA6D9616FFDBE600B6DD25 /* 00.jpg */,
-				04CA6D8916FFD94900B6DD25 /* 01.jpg */,
-				04CA6D8A16FFD94900B6DD25 /* 02.jpg */,
-				04CA6D8B16FFD94900B6DD25 /* 03.jpg */,
-				04CA6D8C16FFD94900B6DD25 /* 04.jpg */,
-				04CA6D8D16FFD94900B6DD25 /* 05.jpg */,
-				04CA6D8E16FFD94900B6DD25 /* 06.jpg */,
 				632670D616F42E7D00675454 /* AppDelegate.h */,
 				632670D716F42E7D00675454 /* AppDelegate.m */,
-				632670E416F42E9800675454 /* RootViewController.h */,
-				632670E516F42E9800675454 /* RootViewController.m */,
-				63E43F6716FD878F008B17F3 /* Helper.h */,
-				63E43F6816FD878F008B17F3 /* Helper.m */,
 				632670CE16F42E7D00675454 /* Supporting Files */,
 			);
 			path = "DEMO\\";
@@ -185,13 +154,6 @@
 				632670DA16F42E7D00675454 /* Default.png in Resources */,
 				632670DC16F42E7D00675454 /* Default@2x.png in Resources */,
 				632670DE16F42E7D00675454 /* Default-568h@2x.png in Resources */,
-				04CA6D8F16FFD94900B6DD25 /* 01.jpg in Resources */,
-				04CA6D9016FFD94900B6DD25 /* 02.jpg in Resources */,
-				04CA6D9116FFD94900B6DD25 /* 03.jpg in Resources */,
-				04CA6D9216FFD94900B6DD25 /* 04.jpg in Resources */,
-				04CA6D9316FFD94900B6DD25 /* 05.jpg in Resources */,
-				04CA6D9416FFD94900B6DD25 /* 06.jpg in Resources */,
-				04CA6D9716FFDBE600B6DD25 /* 00.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -204,8 +166,6 @@
 			files = (
 				632670D416F42E7D00675454 /* main.m in Sources */,
 				632670D816F42E7D00675454 /* AppDelegate.m in Sources */,
-				632670E616F42E9800675454 /* RootViewController.m in Sources */,
-				63E43F6916FD878F008B17F3 /* Helper.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -247,7 +207,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 			};
@@ -270,7 +230,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
@@ -283,7 +243,6 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "DEMO\\/DEMO\\-Prefix.pch";
 				INFOPLIST_FILE = "DEMO\\/DEMO\\-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -295,7 +254,6 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "DEMO\\/DEMO\\-Prefix.pch";
 				INFOPLIST_FILE = "DEMO\\/DEMO\\-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -320,7 +278,6 @@
 				632670E316F42E7D00675454 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
